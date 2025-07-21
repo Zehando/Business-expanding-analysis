@@ -12,3 +12,11 @@ The core of this analysis revolves around evaluating two key concerns raised wit
 2.  **Delivery Efficiency:** Evaluating the speed and potential impact on customer satisfaction of deliveries facilitated through Magist's agreement with the Brazilian Post Office.
 
 This project utilizes a snapshot of Magist's database (analyzed via SQL) and a presentation (provided in PDF format) to address these concerns and provide insights into the feasibility of the partnership.
+
+## Contact
+
+For any questions or feedback, feel free to reach out:
+
+* **GitHub:** [@zehando](https://github.com/zehando)
+* **LinkedIn:** [Sahand Azizi](https://www.linkedin.com/in/sahandazizi/)
+* **Email:** azizisahand@gmail.com
